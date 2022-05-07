@@ -1,0 +1,98 @@
+body {
+    font-family: 'Roboto';
+    background-color: black;
+
+
+}
+
+.logo {
+    height: 60px;
+}
+
+.bg-dark {
+    background-color: #251D3A !important;
+}
+
+
+.hero-image {
+    background: url(../img/codigo.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.hero-text {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: #5e1c41;
+    padding-top: 250px;
+
+}
+
+.nombre1 {
+    font-size: 50px;
+}
+
+.nombre2 {
+    font-size: 40px;
+}
+
+#Sobre-mi .margen-sup {
+    margin-top: 50px;
+}
+
+.titulo-presentacion {
+    color: #009C95;
+    text-align: center;
+    margin-bottom: 60px;
+
+}
+
+.mi-presentacion li {
+    list-style: none;
+}
+
+.mi-presentacion {
+    margin-top: 20px;
+}
+
+.columna1,
+.columna2 {
+    font-weight: bold;
+    margin-top: 30px;
+    text-align: justify;
+    font-size: 20px;
+    color: #400326;
+    
+}
+
+.card-img-top {
+    width: 430px;
+    margin: 30px 30px;
+}
+
+.titulo-repo {
+    text-align: center;
+    color: #009C95;
+    margin-bottom: 60px;
+}
+
+#redes-sociales {
+    background-color: #251D3A;
+    text-align: center;
+}
+
+.icono-1,
+.icono-2,
+.icono-3 {
+    color: #eeec97;
+    text-align: right;
+    margin: 10px;
+
+}
+
+.mi-nombre {
+    color: #5e1c41;
+    font-size: 60px;
+}
